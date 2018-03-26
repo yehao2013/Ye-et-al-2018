@@ -1,3 +1,7 @@
+'''
+This program is to plot tropical average TTL water vapor from MLS and trajectory model simulations
+'''
+
 import numpy as np
 from multi_regress import read_traj,read_mls,anom_calc
 import matplotlib.pyplot as plt
