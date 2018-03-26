@@ -1,3 +1,7 @@
+'''
+This program is to plot the distributions of the regression coefficients, i.e. figures 2-4 in Ye et al., 2018
+'''
+
 import matplotlib.pyplot as plt
 import numpy as np
 from mpl_toolkits.basemap import Basemap
